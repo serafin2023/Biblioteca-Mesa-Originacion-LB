@@ -1,0 +1,6 @@
+{
+  "name": "Programa de Soja Sustentable - La Bragadense",
+  "description": "Guía interactiva de sustentabilidad, trazabilidad y logística de granos para la Mesa de Originación de La Bragadense.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
